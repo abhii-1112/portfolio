@@ -6,9 +6,9 @@ import travel from '/public/image/travel.jpg';
 export const projectsData = [
     {
         id: 1,
-        name: 'Eco-Folio',
-        description: "I developed a web app using Shadcn/UI and Vite.js for a responsive UI and fast development. The app, deployed on Vercel, benefits from its seamless deployment capabilities and optimized performance through Vite's code splitting and minification, ensuring a smooth user experience.",
-        tools: ['Express', 'MongoDB', 'OpenAI API', 'Shadcn UI', 'ViteJS', 'NodeJS'],
+        name: 'Elysee',
+        description: "Elysee is a highly scalable, microservices-based e-commerce platform built with Node.js, Express, and MongoDB, leveraging Redis for caching and BullMQ for asynchronous, fault-tolerant order processing.",
+        tools: ['Express', 'MongoDB', 'Nodejs', 'Javascript', 'Redis', 'BullMQ', 'Middleware'],
         role: 'Full-stack Developer',
         code: '',
         demo: '',
